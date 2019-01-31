@@ -41,3 +41,15 @@ Many commentators have suggested the painting represents the *the anxiety of mod
 
 ![NWT Image](images/logo-blue-bg.png)
 
+## Neural Networks
+
+https://playground.tensorflow.org/
+
+## Hands on Workshop
+
+### Beginners
+
+https://tenso.rs/demos/fast-neural-style/
+
+
+
