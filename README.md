@@ -1,31 +1,30 @@
 
-# Artificially Intelligent Art
+# Artificially Intelligent Art Workshop
+
+## Neural Style Transfer
+
+The *painting* of the North Wales Tech logo presented here has been created by applying ***A Neural Algorithm of Artistic Style*** as presented by Leon A. Gatys, Alexander S. Ecker, Matthias Bethge in their 2015 paper available here: https://arxiv.org/abs/1508.06576
+
+![NWT Image](images/nwt-scream-900px.png)
+
+In this paper the authors present an Artificial Intelligence system based on a Deep Neural Network that creates artistic images by separating and recombining neural representations of content and style from arbitrary images. The authors note the following observation of interest:
 
 > In fine art, especially painting, humans have mastered the skill to
 > create unique visual experiences through composing a complex interplay
 > between the content and style of an image. Thus far the algorithmic
-> basis of this process is unknown and **there exists no artificial system
-> with similar capabilities**.
-> 
-> Leon A. Gatys, Alexander S. Ecker, Matthias Bethge
+> basis of this process is unknown and there exists no artificial system
+> with similar capabilities.
 
+This technique is these days more commonly known as **Neural Style Transfer**.
 
-The *painting* of the North Wales Tech logo presented here has been created by applying:
+## Creating the Style Transfered NWT Logo
 
-## A Neural Algorithm of Artistic Style
+### Style Input: The Scream by Edvard Munch in 1893
 
-.. as presented by Leon A. Gatys, Alexander S. Ecker, Matthias Bethge in their 2015 paper:
+Norwegian: Skrik
+German: Der Schrei der Natur (The Scream of Nature)
 
-https://arxiv.org/abs/1508.06576
-
-
-Artificial Intelligence based on a Deep Neural Network separates and
-recombinies neural representations of content and style from the images.
-
-
-## The Scream by Edvard Munch in 1893
-
-Norwegian: Skrik, German: Der Schrei der Natur
+![NWT Image](images/scream-medium.jpg)
 
 > I was walking along the road with two friends – the sun was setting –
 > suddenly the sky turned blood red – I paused, feeling exhausted, and leaned
@@ -33,7 +32,12 @@ Norwegian: Skrik, German: Der Schrei der Natur
 > fjord and the city – my friends walked on, and I stood there trembling with
 > anxiety – and I sensed an infinite scream passing through nature.
 > 
-> Edvard Munch
+> -- Edvard Munch
 
-The anxiety of modern man?
+Many commentators have suggested the painting represents the *the anxiety of modern man*.
+
+## Input Image: The North Wales Tech Logo
+
+
+![NWT Image](images/logo-blue-bg.png)
 
