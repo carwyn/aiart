@@ -142,3 +142,6 @@ https://www.pyimagesearch.com/2018/08/27/neural-style-transfer-with-opencv/
 
 https://medium.com/artists-and-machine-intelligence/neural-artistic-style-transfer-a-comprehensive-look-f54d8649c199
 
+## Other AI Art Work
+
+https://ai.google/research/teams/brain/magenta/
